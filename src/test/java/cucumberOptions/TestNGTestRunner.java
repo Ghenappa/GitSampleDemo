@@ -16,6 +16,9 @@ public class TestNGTestRunner extends AbstractTestNGCucumberTests{
 		// TODO Auto-generated method stub
 
 		System.out.println("Hi Ghenappa");
+		System.out.println("Hi Ghenappa");
+
+		
 	}
 
 	@Override
